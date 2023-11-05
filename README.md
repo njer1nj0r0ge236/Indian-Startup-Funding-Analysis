@@ -32,6 +32,6 @@ SOLUTIONS
     Remove all non printable characters
     Delete those rows or fill with one value
     Rearrange values correctly
-    Change column nam
+    Change column name
 
 
