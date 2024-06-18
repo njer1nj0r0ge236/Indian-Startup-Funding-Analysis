@@ -28,10 +28,14 @@ QUESTIONS
 SOLUTIONS
 
     Change to appropriate datatype
-    Replace empty rows with missing values and dropna values or fill with a mean or median
-    Remove all non printable characters
-    Delete those rows or fill with one value
-    Rearrange values correctly
-    Change column name
+    Rename column names in df_2018 and df_2019
+    Correct the datatypes in 'Amount' column for all the datasets
+    Remove 'column10' in df_2020
+    Fill missing values with median and mode
+    Clean the HeadQuarter  column in df_2018 to only retain the first part
+    Add missing columns in df_2018 and fill them with NAN
+    Use the simpleImputer to replace NaN values
+
+    
 
 
