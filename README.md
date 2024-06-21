@@ -1,5 +1,18 @@
 # Indian-Startup-Funding-Analysis
 
+
+.env :
+ 
+    the environment that has the database details saved in it
+
+database_connection_config :
+
+    the 2021 and 2021 sql tables to csv files
+
+Indian_startup_funding :
+
+    the data is loaded, cleaned, and visualized
+
 HYPOTHESIS
 
 Null hypothesis-Investors interest in startups are directly correlated with the startup industry
@@ -36,9 +49,6 @@ SOLUTIONS
     Add missing columns in df_2018 and fill them with NAN
     Use the simpleImputer to replace NaN values
 
-.env : the environment that has the database details saved in it
-database_connection_config : the 2021 and 2021 sql tables to csv files
-Indian_startup_funding : the data is loaded, cleaned, and visualized
 
     
 
