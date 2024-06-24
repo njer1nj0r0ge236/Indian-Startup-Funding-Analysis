@@ -7,7 +7,7 @@
 
 database_connection_config :
 
-    the 2021 and 2021 sql tables to csv files
+    the 2021 and 2021 sql tables to csv files named startup_funding2020 and startup_funding2021 
 
 Indian_startup_funding :
 
